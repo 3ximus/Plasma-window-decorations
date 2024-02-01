@@ -32,10 +32,10 @@
   </g>
   <g id="pressed-center" style="enable-background:new" transform="rotate(180,33,11)">
     <rect id="rect4266-6-2" width="22" height="22" x="0" y="0" style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-    <path transform="rotate(180,33,11)" d="m 55,2 a 9,9 0 0 0 -9,9 9,9 0 0 0 9,9 9,9 0 0 0 9,-9 9,9 0 0 0 -9,-9 z m 0,3.3476562 5.65625,5.6562498 -0.707031,0.708985 L 55,6.7617188 50.050781,11.712891 49.34375,11.003906 Z m 0,4 5.65625,5.6562498 -0.707031,0.708985 L 55,10.761719 50.050781,15.712891 49.34375,15.003906 Z" style="fill:#232629" id="path867-5-6-5-7-3"/>
+    <path transform="rotate(180,33,11)" d="m 55,2 a 9,9 0 0 0 -9,9 9,9 0 0 0 9,9 9,9 0 0 0 9,-9 9,9 0 0 0 -9,-9 z m 0,3.3476562 5.65625,5.6562498 -0.707031,0.708985 L 55,6.7617188 50.050781,11.712891 49.34375,11.003906 Z m 0,4 5.65625,5.6562498 -0.707031,0.708985 L 55,10.761719 50.050781,15.712891 49.34375,15.003906 Z" style="fill:#ebdbb2" id="path867-5-6-5-7-3"/>
   </g>
   <g transform="rotate(180,22,11)" style="enable-background:new" id="hover-center">
     <rect style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" y="0" x="0" height="22" width="22" id="rect4266-6-2-6"/>
-    <path id="path867-5-6-5-7-3-7" style="fill:#232629" d="m 55,2 a 9,9 0 0 0 -9,9 9,9 0 0 0 9,9 9,9 0 0 0 9,-9 9,9 0 0 0 -9,-9 z m 0,3.3476562 5.65625,5.6562498 -0.707031,0.708985 L 55,6.7617188 50.050781,11.712891 49.34375,11.003906 Z m 0,4 5.65625,5.6562498 -0.707031,0.708985 L 55,10.761719 50.050781,15.712891 49.34375,15.003906 Z" transform="rotate(180,33,11)"/>
+    <path id="path867-5-6-5-7-3-7" style="fill:#ebdbb2" d="m 55,2 a 9,9 0 0 0 -9,9 9,9 0 0 0 9,9 9,9 0 0 0 9,-9 9,9 0 0 0 -9,-9 z m 0,3.3476562 5.65625,5.6562498 -0.707031,0.708985 L 55,6.7617188 50.050781,11.712891 49.34375,11.003906 Z m 0,4 5.65625,5.6562498 -0.707031,0.708985 L 55,10.761719 50.050781,15.712891 49.34375,15.003906 Z" transform="rotate(180,33,11)"/>
   </g>
 </svg>
